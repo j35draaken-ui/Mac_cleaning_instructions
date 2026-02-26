@@ -13,5 +13,5 @@ My way of cleaning  my Silicon mac <br>
 -----------------------------------------------
   1) identify unecesary software
   2) if you use chrome, concider using only safari. Why? look [here](https://macswire.com/safari-vs-chrome-on-mac/)
-  3)  if you now want to uninstall any app, and the point 0.5) did not work, follow the following steps, else skip to 2.0
+  3)  if you now want to uninstall any app, and the point [0.5](https://github.com/j35draaken-ui/Mac_cleaning_instructions/blob/main/README.md#0-before-we-start-) did not work, follow the following steps, else skip to 2.0
   4) 
